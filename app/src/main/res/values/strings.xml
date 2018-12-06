@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Farmers Friend</string>
+
+    <string name="btn_user">Login as USER</string>
+    <string name="btn_advertiser">Login as Advertiser</string>
+    <string name="btn_admin">Login as Admin</string>
+    <string name="chose_login">Select from options below</string>
+    <string name="username">User Name</string>
+    <string name="pass">Password</string>
+    <string name="username_hint">User</string>
+    <string name="pass_hint">Password</string>
+    <string name="logins">Login with existent account</string>
+    <string name="login">Login</string>
+    <string name="admin_heading">For admin use only</string>
+    <string name="users_heading">Home page of Users</string>
+    <string name="advertisers_heading">Advertisers page</string>
+    <string name="admin_users">Users Accounts</string>
+    <string name="admin_advertisers">Advertisers Accounts</string>
+    <string name="admin_update">Update App</string>
+    <string name="home">Home</string>
+    <string name="chose_region">Select a Region</string>
+    <string name="upload">Upload Ads</string>
+    <string name="voice">User voice</string>
+    <string name="languages">Select Language</string>
+    <string name="services">Use Services</string>
+    <string name="about">About Us</string>
+    <string name="sam">Name: Same\nOperational Office </string>
+    <string name="rajan">Name: Rajandeep\nRegional Manager </string>
+    <string name="luis">Name: Luis\nRegional Manager </string>
+    <string name="nasir">Name: Nasir\nAdmin </string>
+    <string name="aboutstatment">We are a team of software developer\nWho have excellent knowledge of farming\nOur mission is to change\nThe farming in non-developed and developing countries\nOur app will help farmers to increase their production</string>
+</resources>
